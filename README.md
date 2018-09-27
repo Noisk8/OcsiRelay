@@ -20,3 +20,5 @@ Puedes impriir el  pcb descargando el archivo pdf
 ![title](https://github.com/Noisk8/OcsiRelay/blob/master/FLIP2_pcb.png)
 
 
+Proyecto creado por La Jquer EsCool de Platohedro <3
+
